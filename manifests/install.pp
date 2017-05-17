@@ -14,9 +14,9 @@ define jdk_oracle::install(
   $ensure         = 'installed',
 ) {
 
-  $default_8_update = '121'
-  $default_8_build  = '13'
-  $default_8_hash = 'e9e7ea248e2c4826b92b3f075a80e441'
+  $default_8_update = '131'
+  $default_8_build  = '11'
+  $default_8_hash = 'd54c1d3a095b4ff2b6607d096fa80163'
   $default_7_update = '80'
   $default_7_build  = '15'
   $default_6_update = '45'
